@@ -32,7 +32,7 @@ Este repositorio contiene contiene los datos utilizados y los análisis efectuad
     - [`02_resultados_21-22.csv`](./03_encuesta-satisfaccion/01_respuestas/02_resultados_21-22.csv): resultados de las encuestas del curso 2021/2022.
   - `02_resultados`: directorio que contiene los resultados obtenidos en los análisis:
     - [`01_comparativa-satisfaccion.pdf`](./03_encuesta-satisfaccion/02_resultados/01_comparativa-satisfaccion.pdf): comparativa de resultados de satisfacción media entre los cursos 2023/2024 y 2021/2022.
-    - [`02_comparativa-medias-satisfaccion.csv`](./03_encuesta-satisfaccion/02_resultados/02_comparativa-media-satisfaccion.csv): comparativa de resultados de satisfacción media agregada por categorías entre los cursos 2023/2024 y 2021/2022.
+    - [`02_comparativa-medias-satisfaccion.csv`](./03_encuesta-satisfaccion/02_resultados/02_comparativa-medias-satisfaccion.csv): comparativa de resultados de satisfacción media agregada por categorías entre los cursos 2023/2024 y 2021/2022.
 - [`01_analisis.ipynb`](./01_analisis.ipynb): notebook que contiene todos los análisis ejecutados.
 - [`requirements.txt`](./requirements.txt): dependencias utilizadas para ejecutar los análisis en Python 3.9.
 
