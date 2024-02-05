@@ -1,0 +1,9 @@
+id_grupo,primera_entrega,segunda_entrega,nota_proyecto
+1,amarilla->superada,amarilla->amarilla,5.3
+2,amarilla->superada,superada,10.0
+3,superada,superada,10.0
+4,amarilla->superada,superada,7.6
+5,superada,amarilla->superada,9.6
+6,superada,superada,7.6
+7,amarilla->superada,amarilla->superada,NP
+8,amarilla->superada,superada,9.4

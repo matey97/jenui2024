@@ -1,0 +1,23 @@
+item,descripcion,ambito
+1,"Historias de usuario",EI1048
+2,"Pruebas unitarias",EI1048
+3,"Pruebas de aceptación",EI1048
+4,"Pruebas de integración",EI1048
+5,"Desarrollo ágil (Scrum, Kanban)",Genérica
+6,"ATDD/TDD",EI1048
+7,"Push/Pull",Git
+8,"Ramas, pull requests",Git
+9,"Convenciones Gitflow",Git
+10,"Convenciones commits",Git
+11,"GitHub, GitLab",Git
+12,"Principios SOLID",EI1039
+13,"Patrones de diseño",EI1039
+14,"Desarrollo de aplicaciones de escritorio",Genérica
+15,"Desarrollo móvil",Genérica
+16,"Desarrollo móvil híbrido",Genérica
+17,"Desarrollo web moderno",Genérica
+18,"Servicios web (REST, gRPC)",Genérica
+19,"Formatos de intercambio",Genérica
+20,"Despliegue de servidor en la nube",Genérica
+21,"Empleo de servicios serverless",Genérica
+22,"APIs de terceros",Genérica

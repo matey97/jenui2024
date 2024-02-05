@@ -1,0 +1,29 @@
+id_estudiante,item,valor
+2,29,
+2,30,
+3,29,"Nada, todo esta bien."
+3,30,"Si, como mi grupo comento en la defensa ha sido el primer proyecto realista que hemos hecho y con el que hemos aprendido muchas bases que podamos utilizar en el trabajo."
+8,29,Las pruebas de aceptación y integración se vuelven muy repetitivas quizás seria mas efectivo probar casos mas generales y no tan específicos como los escenarios.
+8,30,El hecho de que se permita libertad para elegir las tecnologías ayuda bastante. Además de que ya hemos aprendido mucho de los errores cometidos en otros proyectos.
+9,29,
+9,30,
+12,29,"La principal queja que tengo sobre el proyecto es la cantidad de material que teniamos que aprender que estaba fuera del alcance de las asignaturas: JavaScript, Angular y Firebase son ya de por sí materias con mucho que aprender y que además teníamos que compaginar con la aplicación de ATDD e implementación de patrones. Aunque hemos conseguido aprenderlas y utilizarlas, la carga de trabajo que supusieron causaron muchos problemas inicialmente, así que considero que se debería hacer algo para disminuir la falta de conocimiento inicial y que así los alumnos se puedan fijar más en los objetivos de las asignaturas: ATDD y patrones. El resto del proyecto lo considero adecuado y disfrutable."
+12,30,"En general sí, aplicar ATDD para desarrollar una aplicación desde el front-end al back-end e implementar patrones ha sido bastante enriquecedor y ayuda a ver cómo es un proyecto de desarrollo en la vida real. En proyectos anteriores trabajábamos en entornos que ya conocíamos y desde los cuales realizábamos el trabajo, mientras que con este proyecto trabajamos en entornos y con herramientas que no habíamos utilizado antes. He sentido tanto curiosidad por aprender lo nuevo como preocupación al ver que ocupaba demasiado del tiempo que teníamos para el desarrollo."
+13,29,"Quizás bajar un poco la carga de trabajo si es posible. Aunque es bastante interesante el hacer un proyecto tan completo, si que es verdad que eso hace que quizás no todas las metodologías empleadas se empleen bien.      Por ejemplo, en el caso del ATDD, una de sus finalidades es que al hacer los test se va estructurando el proyecto y las clases, pero al tener que hacer el primer borrador de HU con cierta prisa para la entrega, no se tiene oportunidad de hacer esa planificación y estructuración."
+13,30,"Sí, por el hecho de que se han trabajado con muchas tecnologías y funcionalidades diferentes. Entonces ha sido en todo momento un proceso de aprendizaje y no se ha hecho monótono."
+14,29,"Se que es difícil, pero tendríamos que haber empezado a programar un poco antes. Creo que se alargó la parte de planificación y definición de historias de usuario demasiado quitándonos tiempo para hacer un mejor trabajo de desarrollo informático."
+14,30,"Sí, porque es lo más parecido a un proyecto real que creo que hemos desarrollado en la carrera."
+16,29,En principio nada
+16,30,"En parte si, porque me ha permitido aprender nuevas tecnologías y metodologías por mi cuenta, cosa que como futuro informático, debería ser algo normal en mi carrera, pero si es verdad que en algunas ocasiones, generaba bastante frustración con según que tecnologías puesto que su documentación era muy ambigua o mal detallada y ha habido que perder bastante tiempo para comprenderla y usarla eficientemente. Sin embargo la experiencia la califico como positiva."
+19,29,
+19,30,"En comparación con proyectos de la carrera, creo que este ha sido el que más me ha gustado. Por el hecho de escoger las tecnologias para el proyecto y realizarlo en equipo aunque hayan habido pequeños problemas."
+24,29,
+24,30,"Sí. Me ha gustado realizar un proyecto con una tecnología nueva, además es un proyecto que he hosteado y no depende de un servidor de la uji lo cual me hace estar mas orgulloso del proyecto creado"
+26,29,
+26,30,"Cursé la asignatura el año pasado y el proyecto de este año me ha gustado mucho más. No solo por la experiencia de trabajar con mapas, sino que también ha sido más fácil entender el proyecto y esto ha facilitado la implementación."
+27,29,
+27,30,
+28,29,"El uso de los patrones de diseño, nos ha costado identificar donde era más adecuado poner cada uno"
+28,30,"Sí, porque es un proyecto de mayor envergadura, donde trabajamos todas las áreas de la mismo"
+29,29,"- Tener más tiempo para desarrollar el proyecto, no comenzamos a realizar la aplicación hasta la 3 entrega con solamente 1 més y medio en el que realizar la aplicación entera desde 0, si aparece algún problema técnico durante alguna iteración, se empieza a caer detrás de la planificación."
+29,30,"Prefiero este tipo de proyecto, en el que crear una aplicación que cumpla unos requisitos específicos usando la tecnología que queramos, ya que permite poner los conocimientos obtenidos en práctica, en vez de tener que memorizar conocimientos teóricos."

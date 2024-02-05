@@ -1,0 +1,31 @@
+item,descripcion,ambito
+1,"Un único proyecto (común a ambas asignaturas) me ha ayudado a ser más productivo",Proyecto
+2,"El proyecto desarrollado me ha parecido realista",Proyecto
+3,"Mi motivación ha sido mayor en comparación con proyectos anteriores",Proyecto
+4,"He tenido la oportunidad de integrar contenidos de ambas asignaturas",Proyecto
+5,"Me ha resultado interesante/estimulante disponer de libertad para escoger las tecnologías y plataformas en las que desarrollar el proyecto",Proyecto
+6,"He experimentado el valor de diseñar software a partir de ejemplos concretos de escenarios de uso/prueba (representados en las pruebas de aceptación)",EI1039
+7,"He experimentado el valor de diseñar un sistema progresivamente de arriba a abajo",EI1039
+8,"He tenido la oportunidad de usar (sin forzar) patrones de diseño",EI1039
+9,"He rediseñado menos de lo habitual",EI1039
+10,"He experimentado el valor de implementar un prototipo exploratorio (spike) para aprender a usar (e integrar) las tecnologías involucradas en el proyecto",EI1039
+11,"He experimentado el valor de diseñar clases con responsabilidad única",EI1039
+12,"He experimentado el valor de extender clases en lugar de modificarlas",EI1039
+13,"He experimentado el valor de diseñar clases dependientes de abstracciones",EI1039
+14,"He experimentado el valor de la inyección de dependencias",EI1039
+15,"Considero que el diseño final es relativamente simple",EI1039
+16,"Comenzar escribiendo pruebas me ha facilitado la comprensión de los requisitos funcionales",EI1048
+17,"Comenzar escribiendo pruebas me ha facilitado la planificación de cada iteración",EI1048
+18,"Comenzar escribiendo pruebas me ha facilitado la adopción de decisiones de diseño",EI1048
+19,"Comenzar escribiendo pruebas me ha facilitado la colaboración dentro del equipo",EI1048
+20,"Las pruebas de aceptación han permitido una evaluación objetiva del final de la iteración",EI1048
+21,"He experimentado el valor de recibir realimentación frecuente del propietario del sistema (el profesor)",EI1048
+22,"He experimentado el valor de entregas periódicas del software con funcionalidad creciente",EI1048
+23,"He visto a mi equipo motivado",Trabajo colaborativo
+24,"La carga de trabajo se ha repartido equitativamente entre los miembros del equipo",Trabajo colaborativo
+25,"La comunicación entre los miembros del equipo ha sido efectiva",Trabajo colaborativo
+26,"No han surgido problemas entre los miembros del equipo (falta a reuniones, incumplimiento de fechas límite internas, etc…)",Trabajo colaborativo
+27,"El uso de la metodología propuesta para el uso de Git (ramas por historia e iteración) ha sido de utilidad y ha permitido al equipo trabajar paralelamente.",Trabajo colaborativo
+28,"El uso de la metodología propuesta en la escritura de commits ha sido de utilidad.",Trabajo colaborativo
+29,"¿Qué mejorarías o cambiarías de la experiencia del proyecto conjunto?",Proyecto
+30,"¿Te ha gustado más la experiencia de este proyecto en comparación con proyectos anteriores? ¿Por qué?",Proyecto
