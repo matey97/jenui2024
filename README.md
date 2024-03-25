@@ -1,6 +1,45 @@
 # JENUI 2024: Estrategias de control y seguimiento de proyectos de desarrollo de software
 
-Este repositorio contiene contiene los datos utilizados y los análisis efectuados para el artículo _"Estrategias de control y seguimiento de proyectos de desarrollo de software"_
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/matey97/jenui2024/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matey97/jenui2024/v1.0.0)
+
+Este repositorio contiene contiene los datos utilizados y los análisis efectuados para el artículo _"Estrategias de control y seguimiento de proyectos de desarrollo de software"_, enviado a las **XXX Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)**.
+
+## Reproducibilidad 
+
+### Reproducir online
+
+Haga click en la insignia "Binder" para abir un entorno interactivo de Jupyter con todo el software necesario instalado.
+
+### Reproducir localmente
+Instale Python 3.9, descargue el repositorio, inicie una linea de comandos en la raíz del directorio e instale las dependencias requeridas mediante la execución del siguiente comando:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Reproducir localmente con Docker
+Instalar [Docker](https://www.docker.com) para construir una imagen basada en el `Dockerfile` con un entorno Jupyter y ejecutar un conteneder basado en la imagen.
+
+Descargue el repositorio, abra una linea de comandos en la raíz del directorio y ejecute:
+
+1. Construya la imagen:
+
+```bash
+docker build . --tag jenui24
+```
+
+2. Ejecute la imagen:
+
+```bash
+docker run -it -p 8888:8888 jenui24
+```
+
+3. Haga click en el link de login (o copie y pegue en el navegador) que se muestra en la consola para acceder al entorno de Jupyter.
+
+### Reproduzca el análisis
+Abra el notebook `01_analysis.ipynb`. Dicho fichero contiene el código empleado para realizar los análisis y obtener los resultados mostrados en el artículo. Puede ejecutar el código para reproducir los resultados mostrados.  
+
 
 ## Estructura del repositorio
 
@@ -11,7 +50,6 @@ Este repositorio contiene contiene los datos utilizados y los análisis efectuad
     - [`notas_22-23.csv`](./01_notas/01_entrada/notas_22-23.csv): notas del curso 2022/2023.
     - [`notas_21-22.csv`](./01_notas/01_entrada/notas_21-22.csv): notas del curso 2021/2022.
   - `02_resultados`: directorio que contiene los resultados obtenidos en los análisis:
-    - [`evolucion.html`](./01_notas/02_resultados/evolucion.html): gráfico (interactivo) que muestra la evolución de los equipos en las entregas y el proyecto final durante el curso 2023/2024.
     - [`evolucion.pdf`](./01_notas/02_resultados/evolucion.pdf): gráfico que muestra la evolución de los equipos en las entregas y el proyecto final durante el curso 2023/2024.
 - `02_encuesta-conocimientos`: contiene los datos de entrada y los resultados de los análisis de las encuestas de conocimiento.
   - `01_respuestas`: directorio que contiene los siguientes ficheros empleados en los análisis:
