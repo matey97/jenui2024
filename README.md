@@ -3,7 +3,9 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/matey97/jenui2024/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matey97/jenui2024/v1.0.0)
 
-Este repositorio contiene contiene los datos utilizados y los análisis efectuados para el artículo _"Estrategias de control y seguimiento de proyectos de desarrollo de software"_, enviado a las **XXX Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)**.
+Este repositorio contiene contiene los datos utilizados y los análisis efectuados para el artículo _"Estrategias de control y seguimiento de proyectos de desarrollo de software"_, presentado en las **XXX Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)**.
+
+> Matey Sanz, M., Granell Canut, C. , Mollineda Cárdenas, R. A. (2024). Estrategias de control y seguimiento activo de proyectos de desarrollo de software. Actas de las Jenui, 9, 165-172.
 
 ## Reproducibilidad 
 
@@ -62,7 +64,7 @@ Abra el notebook `01_analysis.ipynb`. Dicho fichero contiene el código empleado
     - [`02_inc-abs-perc.pdf`](./02_encuesta-conocimientos/02_resultados/02_inc-abs-perc.pdf): incremento absoluto porcentual de conocimientos.
     - [`02_inc-abs.pdf`](./02_encuesta-conocimientos/02_resultados/02_inc-abs.pdf): incremento absoluto de conocimientos.
     - [`03_comparativa-incrementos.pdf`](./02_encuesta-conocimientos/02_resultados/03_comparativa-incrementos.pdf): comparativa de incrementos medidos entre el curso 2023/2024 y el curso 2021/2022.
-- `02_encuesta-satisfaccion`: contiene los datos de entrada y los resultados de los análisis de la encuesta de satisfacción.
+- `03_encuesta-satisfaccion`: contiene los datos de entrada y los resultados de los análisis de la encuesta de satisfacción.
   - `01_respuestas`: directorio que contiene los siguientes ficheros empleados en los análisis:
     - [`00_items.csv`](./03_encuesta-satisfaccion/01_respuestas/00_items.csv): descripción de los items de la encuesta.
     - [`01_respuestas-freetext.csv`](./03_encuesta-satisfaccion/01_respuestas/01_respuestas-freetext.csv): respuestas de texto libre del curso 2023/2024.
@@ -71,6 +73,7 @@ Abra el notebook `01_analysis.ipynb`. Dicho fichero contiene el código empleado
   - `02_resultados`: directorio que contiene los resultados obtenidos en los análisis:
     - [`01_comparativa-satisfaccion.pdf`](./03_encuesta-satisfaccion/02_resultados/01_comparativa-satisfaccion.pdf): comparativa de resultados de satisfacción media entre los cursos 2023/2024 y 2021/2022.
     - [`02_comparativa-medias-satisfaccion.csv`](./03_encuesta-satisfaccion/02_resultados/02_comparativa-medias-satisfaccion.csv): comparativa de resultados de satisfacción media agregada por categorías entre los cursos 2023/2024 y 2021/2022.
+- [`04_ponencia`](./04_ponencia): directorio que contiene la presentación en PowerPoint (`.pptx`) y PDF empleada durante la ponencia.
 - [`01_analisis.ipynb`](./01_analisis.ipynb): notebook que contiene todos los análisis ejecutados.
 - [`requirements.txt`](./requirements.txt): dependencias utilizadas para ejecutar los análisis en Python 3.9.
 
