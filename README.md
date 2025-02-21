@@ -2,6 +2,7 @@
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/matey97/jenui2024/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matey97/jenui2024/v1.0.0)
+[![Artículo](https://img.shields.io/badge/Articulo-Actas_de_JENUI-yellow.svg)](https://aenui.org/actas/fichas/JENUI_2024_021.html)
 
 Este repositorio contiene contiene los datos utilizados y los análisis efectuados para el artículo _"Estrategias de control y seguimiento de proyectos de desarrollo de software"_, presentado en las **XXX Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)**.
 
